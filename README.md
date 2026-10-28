@@ -3,13 +3,13 @@
 **내 차를 캐릭터로 만들어 생명을 불어넣는 Pleos Connect 앱.**
 이름을 지어 주면 알에서 깨어나 차량 상태를 캐릭터의 감정으로 보여 주고 함께 달린 거리만큼 자랍니다.
 
-현대자동차그룹 차량용 앱 개발 공모전 출품작 · 팀명 김길영(개인)
+현대자동차그룹 차량용 앱 개발 공모전 출품작
 
 [![시연 영상 미리보기](docs/demo/preview.gif)](docs/demo/carpet_demo.mp4)
 
 | 자료 | 위치 |
 |---|---|
-| APK (release) | [`apk/김길영_카펫_release.apk`](apk/김길영_카펫_release.apk) · [GitHub Release](https://github.com/xpdlf1004/carpet/releases/latest) |
+| APK (release) | [`apk/CarPet_카펫_release.apk`](apk/CarPet_카펫_release.apk) · [GitHub Release](https://github.com/xpdlf1004/carpet/releases/latest) |
 | 시연 영상 (2분 4초) | [`docs/demo/carpet_demo.mp4`](docs/demo/carpet_demo.mp4) |
 | 화면 시안 (PDF) | [`docs/카펫_화면시안.pdf`](docs/카펫_화면시안.pdf) |
 
@@ -45,7 +45,7 @@
 1. **에뮬레이터 준비**: Android Studio에서 Pleos Connect Emulator(v2.1) 시스템 이미지로 AVD를 만들어 실행합니다.
 2. **APK 설치**
    ```bash
-   adb install apk/김길영_카펫_release.apk
+   adb install apk/CarPet_카펫_release.apk
    ```
 3. **앱 열기**: Pleos 화면 아래 독에서 카펫 아이콘을 누릅니다(앱 목록에도 있습니다). 처음 열면 알이 이름을 지어 달라고 합니다. 추천 이름을 누르고 「이 이름으로 깨우기」를 누르면 카펫이 태어납니다.
 4. **차 상태 바꾸기 (Virtual Console)**

@@ -10,7 +10,7 @@
 | 자료 | 위치 |
 |---|---|
 | APK (release) | [`apk/김길영_카펫_release.apk`](apk/김길영_카펫_release.apk) · [GitHub Release](https://github.com/xpdlf1004/carpet/releases/latest) |
-| 시연 영상 (2분 4초) | [`docs/demo/carpet_demo.mp4`](docs/demo/carpet_demo.mp4) |
+| 시연 영상 (1분 33초) | [`docs/demo/carpet_demo.mp4`](docs/demo/carpet_demo.mp4) |
 | 화면 시안 (PDF) | [`docs/카펫_화면시안.pdf`](docs/카펫_화면시안.pdf) |
 
 ## 무엇을 하나
